@@ -1,0 +1,7 @@
+body {
+    background: url('./Asset/img/eid\ pic.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
